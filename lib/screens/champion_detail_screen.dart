@@ -37,7 +37,6 @@ class ChampionDetailScreen extends StatelessWidget {
             child: Column(
               crossAxisAlignment: CrossAxisAlignment.start,
               children: [
-                // Splash Art
                 Container(
                   height: 250,
                   width: double.infinity,
